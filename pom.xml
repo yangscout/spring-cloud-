@@ -8,10 +8,14 @@
     <artifactId>springcloud_demo</artifactId>
     <version>1.0</version>
     <modules>
-
-
+        <module>feign-api</module>
+        <module>order-service</module>
         <module>user-service</module>
         <module>gateway</module>
+        <module>sidecar</module>
+        <module>sidecar</module>
+        <module>consume_sidecar</module>
+
     </modules>
 
     <packaging>pom</packaging>

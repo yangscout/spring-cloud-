@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51dc4cb9-3dc4-4cd4-9738-8aede2b92123" name="Changes" comment="sidecar 跨语言开发 python" />
+    <list default="true" id="51dc4cb9-3dc4-4cd4-9738-8aede2b92123" name="Changes" comment="sidecar 跨语言开发 python">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +65,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.ignored.files",
+    "settings.editor.selected.configurable": "vcs.Git",
     "spring.configuration.checksum": "ff80680b95a853315bd018f21597ab11"
   }
 }]]></component>
@@ -187,7 +191,7 @@
       <workItem from="1668393157111" duration="6313000" />
       <workItem from="1668409208363" duration="8797000" />
       <workItem from="1668475183633" duration="38033000" />
-      <workItem from="1668672178148" duration="4184000" />
+      <workItem from="1668672178148" duration="5145000" />
     </task>
     <task id="LOCAL-00001" summary="nacos注册，网关，feign">
       <created>1668069698033</created>
@@ -210,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668759897299</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="sidecar 跨语言开发 python">
+      <created>1668760165814</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668760165814</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
